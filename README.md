@@ -37,7 +37,7 @@ Este proyecto está en fase piloto. Si deseas contribuir, probarlo con usuarios 
 
 ## 🧑‍⚕️ Autor
 
-Desarrollado por el Dr. Walter R.V.G, psiquiatra y psicoterapeuta.
+Desarrollado por el Dr. Walter Villalobos, psiquiatra y psicoterapeuta DBT.
 
 ## ⚠️ Disclaimer
 
